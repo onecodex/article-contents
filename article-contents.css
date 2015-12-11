@@ -19,5 +19,6 @@ a:before {
 a:hover,
 a:hover:before {
   text-decoration: none;
-  color: blue;
+  color: #05347B;
+  font-weight: 400;
 }
